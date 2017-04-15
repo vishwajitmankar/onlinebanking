@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: actionClass.Admin_Add_Emp_ActionTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.918 sec - in actionClass.Admin_Add_Emp_ActionTest

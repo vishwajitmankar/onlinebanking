@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: daoImpl.Admin_EmpChPW_DaoImplTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.044 sec - in daoImpl.Admin_EmpChPW_DaoImplTest
