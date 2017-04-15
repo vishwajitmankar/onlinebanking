@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: actionClass.Admin_Login_ActionTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.193 sec - in actionClass.Admin_Login_ActionTest

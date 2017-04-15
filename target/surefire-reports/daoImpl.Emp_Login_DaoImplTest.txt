@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: daoImpl.Emp_Login_DaoImplTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.135 sec - in daoImpl.Emp_Login_DaoImplTest
